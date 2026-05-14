@@ -4,7 +4,6 @@ int main(){
     
     int A, B, C, D, E, F, G, H, I, J;
     int SOMA;
-    printf("Ola gumelpa!! coloca aqui os valores das respostas separados por espacos: ");
     scanf("%d %d %d %d %d %d %d %d %d %d", &A, &B, &C, &D, &E, &F, &G, &H, &I, &J);
 
     SOMA = A + B + C + D + E + F + G + H + I + J;
